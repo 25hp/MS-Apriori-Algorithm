@@ -1,2 +1,6 @@
 # MS-Apriori-Algorithm
-Apriori is an algorithm for frequent item set mining and association rule learning over transactional databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.
+Apriori is a Data Mining Algorithm for frequent item set using association rules that learns over transactional databases. 
+It proceeds by identifying the frequent individual items in the database and extends them to larger item sets as long as
+the items appear in the database often. (With certain rules/constraints to define "often").
+MS-Apriori is a modified version of Apriori, but instead it uses multiple supports to satisfy the conditions extending them to larger item sets.
+
