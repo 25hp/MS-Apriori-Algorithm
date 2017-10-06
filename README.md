@@ -8,3 +8,4 @@ Is MS Apriori better? Yes! It accounts for the "rare item support." Apriori only
 In MS Apriori, we have multiple supports, every item has a min-support. This will improve the effectiveness of the association rules and account
 for the rare items.
 
+Algorithm is complete, just not uploaded via Github. I wanted to optimize it and clean it up before posting it. =)
